@@ -1,0 +1,21 @@
+body{
+    background-color: #f0f0f0;
+}
+.box{
+    width: 30%;
+    margin: 200px auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    font-family: sans-serif;
+    background-color: white;
+    border-radius: 5px;
+}
+h2{
+    text-align: center;
+}
+.information{
+    font-weight: bold;
+}
+.data{
+    padding: 5px;
+}
